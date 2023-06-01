@@ -16,8 +16,8 @@
 
 ## Deployed Link :
 
-   - Frontend - <a href="https://snipsandspikes.netlify.app/" target:"_blank">Netlify</a>
-   - Backend  - <a href="https://hair-salon-backend.onrender.com" target:"_blank">Render</a>
+   - Frontend - <a href="https://snipsandspikes.netlify.app/">Netlify</a>
+   - Backend  - <a href="https://hair-salon-backend.onrender.com">Render</a>
 
 
 <br>
